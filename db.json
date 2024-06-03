@@ -1,0 +1,193 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "position": "Product Manager",
+      "company": "Amazon",
+      "location": "Seattle",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "3/10/2024"
+    },
+    {
+      "id": "2",
+      "position": "Software Engineer",
+      "company": "Google",
+      "location": "Mountain View",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "4/15/2024"
+    },
+    {
+      "id": "3",
+      "position": "UX Designer",
+      "company": "Apple",
+      "location": "Cupertino",
+      "status": "Reddedildi",
+      "type": "Uzaktan Çalışma",
+      "date": "5/5/2024"
+    },
+    {
+      "id": "4",
+      "position": "Data Scientist",
+      "company": "Microsoft",
+      "location": "Redmond",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "5/20/2024"
+    },
+    {
+      "id": "5",
+      "position": "Marketing Manager",
+      "company": "Facebook",
+      "location": "Menlo Park",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "6/1/2024"
+    },
+    {
+      "id": "6",
+      "position": "Frontend Developer",
+      "company": "Netflix",
+      "location": "Los Gatos",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": "6/10/2024"
+    },
+    {
+      "id": "7",
+      "position": "HR Coordinator",
+      "company": "Uber",
+      "location": "San Francisco",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": "7/5/2024"
+    },
+    {
+      "id": "8",
+      "position": "Business Analyst",
+      "company": "Amazon",
+      "location": "San Francisco",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "7/20/2024"
+    },
+    {
+      "id": "9",
+      "position": "Product Designer",
+      "company": "Amazon",
+      "location": "Santa Monica",
+      "status": "Mülakat",
+      "type": "Uzaktan Çalışma",
+      "date": "8/1/2024"
+    },
+    {
+      "id": "10",
+      "position": "Operations Manager",
+      "company": "LinkedIn",
+      "location": "Sunnyvale",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "8/15/2024"
+    },
+    {
+      "id": "11",
+      "position": "Backend Developer",
+      "company": "Twitter",
+      "location": "San Francisco",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "9/1/2024"
+    },
+    {
+      "id": "12",
+      "position": "Account Manager",
+      "company": "Google",
+      "location": "San Francisco",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "9/15/2024"
+    },
+    {
+      "id": "13",
+      "position": "Customer Success Specialist",
+      "company": "Oracle",
+      "location": "Google City",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "10/1/2024"
+    },
+    {
+      "id": "14",
+      "position": "Financial Analyst",
+      "company": "Amazon",
+      "location": "Armonk",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "10/15/2024"
+    },
+    {
+      "id": "15",
+      "position": "Sales Representative",
+      "company": "Apple",
+      "location": "San Jose",
+      "status": "Mülakat",
+      "type": "Yarı Zamanlı",
+      "date": "11/1/2024"
+    },
+    {
+      "id": "16",
+      "position": "Quality Assurance Engineer",
+      "company": "HP",
+      "location": "Palo Alto",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": "11/15/2024"
+    },
+    {
+      "id": "17",
+      "position": "Technical Support Specialist",
+      "company": "Dell",
+      "location": "Round Rock",
+      "status": "Mülakat",
+      "type": "Uzaktan Çalışma",
+      "date": "12/1/2024"
+    },
+    {
+      "id": "18",
+      "position": "Supply Chain Manager",
+      "company": "Samsung",
+      "location": "Seoul",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "12/15/2024"
+    },
+    {
+      "id": "19",
+      "position": "Content Writer",
+      "company": "Sony",
+      "location": "Tokyo",
+      "status": "Reddedildi",
+      "type": "Yarı Zamanlı",
+      "date": "1/1/2025"
+    },
+    {
+      "id": "20",
+      "position": "Legal Counsel",
+      "company": "Samsung",
+      "location": "Vevey",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": "1/15/2025"
+    },
+    {
+      "id": "05992201-cfd1-4bda-a35c-fe19b525f8cf",
+      "position": "Linkedin",
+      "company": "Samsung",
+      "location": "Los Gatos",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": "07.05.2024"
+    }
+  ]
+}
